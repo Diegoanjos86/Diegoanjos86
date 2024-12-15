@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Formado  Análise e Desenvolvimento de Sistemas na UNIJORGE.
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas na UNIJORGE.
 - 💼 Trabalhando como Técnico de Suporte na SOTECH.
 - 🌱 Aprendendo mais sobre JS, REACT, HTML, PYTHON.
 
